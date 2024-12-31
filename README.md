@@ -1,6 +1,5 @@
 <h1>Dictionary Program</h1>
-
-<a href="https://ibb.co/y6m5NJj"><img src="https://i.ibb.co/x1KG2QT/rose-dictionary-book-aesthetic-wallpaper.jpg" alt="rose-dictionary-book-aesthetic-wallpaper" border="0"></a><br/>
+<a href="https://ibb.co/y6m5NJj"><img src="https://i.ibb.co/x1KG2QT/rose-dictionary-book-aesthetic-wallpaper.jpg" alt="rose-dictionary-book-aesthetic-wallpaper" width= "1000" height= "500"></a><br/>
 
 <h2>Description</h2>
 This project is a Python-based dictionary application that allows users to type in a word and view its meaning. The program loads dictionary data from a JSON file and provides case-insensitive matching for words. Additionally, it suggests similar words if the input word is not found. Users can accept or reject the suggested alternatives.
